@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.98.34222.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:03.970%0D%0AThose%20sound%20like%20some%20pretty%20powerful%20strengths.%20But%20what%20about%20the%20weaknesses?%0D%0A%0D%0A"}')
